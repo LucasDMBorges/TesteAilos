@@ -1,0 +1,38 @@
+.mat-stepper-horizontal {
+  margin-top: 8px;
+  background-color: #98c9f1;
+}
+
+.mat-form-field {
+  margin-top: 16px;
+}
+
+.abertura{
+  margin-top: 50px;
+}
+
+.texto{
+  padding-left: 20px;
+}
+
+.btn {
+ margin-left: 15px;
+}
+
+::ng-deep .mat-horizontal-stepper-header{
+  pointer-events: none !important;
+}
+
+.formCpf {
+   margin-left: 20px;
+
+}
+
+.inputCpf {
+  margin-bottom: 20px;
+}
+
+
+.h-50 {
+  height: 35px !important;
+}

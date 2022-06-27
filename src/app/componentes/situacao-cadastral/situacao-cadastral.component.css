@@ -1,0 +1,36 @@
+
+.icone{
+  margin-right: 5px;
+}
+
+.container {
+  align-items: flex-start;
+  margin-right: 10px;
+}
+.dadosNome {
+  font-size: 10px;
+}
+.card-title{
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.card-text{
+  font-size: 10px;
+  color: gray;
+  margin: 0px;
+  padding: 0px;
+}
+.dados-title{
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.row{
+  margin-right: 10px;
+}
+
+.height-card {
+  height: 40px;
+}
