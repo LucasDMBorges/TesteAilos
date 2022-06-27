@@ -26,16 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-#🔨 Funcionalidades do projeto:
+# Funcionalidades do projeto: 
 O teste realiza uma pequena consulta de cpf para verificar se esta cadastrado ou não, em caso de sucesso mostra os dados do usuario.
-#✔️ Técnicas e tecnologias utilizadas
+# Técnicas e tecnologias utilizadas
 - Angular CLI
 - Metadata @Output() @Ipnut()
 - Diretiva *ngIf
 - RouterModule, RouterLink
 - Bootstrap
 - Angular Material
-#🛠️ Abrir e rodar o projeto
+# Abrir e rodar o projeto
 
 https://user-images.githubusercontent.com/103056538/175937805-22473c5d-f26e-48bc-9713-32cf74cd27a7.mp4
 
